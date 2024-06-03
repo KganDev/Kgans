@@ -1,0 +1,4 @@
+# Turn on the rewrite engine
+RewriteEngine On
+
+RewriteRule ^(.*)\.html$ /$1 [R=301,L]
