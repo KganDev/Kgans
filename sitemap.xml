@@ -8,26 +8,20 @@
     </url>
     <!-- Game Page  -->
     <url>
-        <loc>https://www.kgans.com/games/</loc>
+        <loc>https://www.kgans.com/game/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
-    <!-- Work Page -->
+    <!-- Train Page -->
     <url>
-        <loc>https://www.kgans.com/work/</loc>
+        <loc>https://www.kgans.com/trains/</loc>
         <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
+        <priority>1.0</priority>
     </url>
-    <!-- 3D Page -->
+    <!-- PS2 Page -->
     <url>
-        <loc>https://www.kgans.com/work/3d</loc>
+        <loc>https://www.kgans.com/ps2</loc>
         <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <!-- About Page -->
-    <url>
-        <loc>https://www.kgans.com/about</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
+        <priority>1</priority>
     </url>
 </urlset>
